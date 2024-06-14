@@ -16,7 +16,7 @@ Projeto feito com o intuito para podemos controlar entrada e saída da estrela d
    Passo 3: excute um novo banco de dados com o nome "EstrelaDaMorte" <br/> 
    Passo 4: cole nosso script de Banco de dados em uma nova consulta e execute <br/>
    passo 5: Linkar seu banco dados com o programa em Csharp, abrindo DaoBase e aonde esta ILUZINH0\SQLEXPRESS coloque o seu banco de dados <br/>
-   passo 6: executar. <br/>
+   Passo 6: executar. <br/>
   
    # considerações finais
   foi um projeto pensado em utilizar API RESTful com o intuito de aprender e melhorar meus conhecimentos na área <br/> 
