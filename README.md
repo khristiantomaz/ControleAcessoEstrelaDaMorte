@@ -11,12 +11,12 @@ Projeto feito com o intuito para podemos controlar entrada e saída da estrela d
 
    # como configurar
 
-   Passo 1: de um fork em nosso codigo
-   Passo 2: Copie nosso script de banco dados
-   Passo 3: excute um novo banco de dados com o nome "EstrelaDaMorte"
-   Passo 4: cole nosso script de Banco de dados em uma nova consulta e execute 
-   passo 5: Linkar seu banco dados com o programa em Csharp, abrindo DaoBase e aonde esta ILUZINH0\SQLEXPRESS coloque o seu banco de dados
-   passo 6: executar. 
+   Passo 1: de um fork em nosso codigo <br/>
+   Passo 2: Copie nosso script de banco dados <br/>
+   Passo 3: excute um novo banco de dados com o nome "EstrelaDaMorte" <br/> 
+   Passo 4: cole nosso script de Banco de dados em uma nova consulta e execute <br/>
+   passo 5: Linkar seu banco dados com o programa em Csharp, abrindo DaoBase e aonde esta ILUZINH0\SQLEXPRESS coloque o seu banco de dados <br/>
+   passo 6: executar. <br/>
   
    # considerações finais
   foi um projeto pensado em utilizar API RESTful com o intuito de aprender e melhorar meus conhecimentos na área <br/> 
